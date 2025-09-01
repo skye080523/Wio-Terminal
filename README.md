@@ -15,12 +15,16 @@
 ## 🎥 游戏演示
 
 ### 视频展示
-[![Wio Terminal 超级玛丽游戏演示](https://img.shields.io/badge/观看完整演示视频-点击这里-red?style=for-the-badge&logo=youtube)](https://github.com/你的用户名/wio_terminal_project/issues/1)
+[![Wio Terminal 超级玛丽游戏演示](https://img.shields.io/badge/观看完整演示视频-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1CeaEz9Enf/)
+
+**或者观看GitHub演示视频**：[点击这里](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181)
 
 ### 游戏截图
 | 游戏开始界面 | 游戏进行中 | 成功界面 |
 |-------------|-----------|----------|
-| ![开始界面](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=游戏开始界面) | ![游戏进行](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=游戏进行中) | ![成功界面](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=成功界面) |
+| [![开始界面](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=游戏开始界面)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) | [![游戏进行](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=游戏进行中)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) | [![成功界面](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=成功界面)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) |
+
+**点击图片查看详细演示视频和截图**
 
 ### 功能演示
 - 🎮 **跳跃机制演示**：展示连续跳跃和高度控制
@@ -32,7 +36,7 @@
 ### 快速预览
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/wio_terminal_project.git
+git clone https://github.com/skye080523/Wio-Terminal.git
 
 # 查看演示视频
 # 点击上方"观看完整演示视频"按钮
@@ -256,12 +260,16 @@ This is a complete Super Mario game project developed for the Seeed Wio Terminal
 ## 🎥 Game Demo
 
 ### Video Showcase
-[![Wio Terminal Super Mario Game Demo](https://img.shields.io/badge/Watch_Full_Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube)](https://github.com/your-username/wio_terminal_project/issues/1)
+[![Wio Terminal Super Mario Game Demo](https://img.shields.io/badge/Watch_Demo_Video-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1CeaEz9Enf/)
+
+**Or watch GitHub demo video**: [Click here](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181)
 
 ### Game Screenshots
 | Start Menu | Gameplay | Success Screen |
 |------------|----------|----------------|
-| ![Start Menu](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Start+Menu) | ![Gameplay](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=Gameplay) | ![Success Screen](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Success+Screen) |
+| [![Start Menu](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Start+Menu)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) | [![Gameplay](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=Gameplay)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) | [![Success Screen](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Success+Screen)](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181) |
+
+**Click images to view detailed demo video and screenshots**
 
 ### Feature Demonstrations
 - 🎮 **Jump Mechanism Demo**: Showcase continuous jumping and height control
@@ -273,7 +281,7 @@ This is a complete Super Mario game project developed for the Seeed Wio Terminal
 ### Quick Preview
 ```bash
 # Clone the project
-git clone https://github.com/your-username/wio_terminal_project.git
+git clone https://github.com/skye080523/Wio-Terminal.git
 
 # Watch demo video
 # Click the "Watch Full Demo Video" button above
