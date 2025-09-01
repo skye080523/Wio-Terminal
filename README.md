@@ -15,7 +15,7 @@
 ## 🎥 游戏演示
 
 ### 视频展示
-![Wio Terminal 超级玛丽游戏演示](https://www.bilibili.com/video/BV1CeaEz9Enf/?vd_source=d7dc061732b32ff860311f2bfe38d571)
+![Wio Terminal 超级玛丽游戏演示](https://www.bilibili.com/video/BV1CeaEz9Enf/)
 
 ### 游戏截图
 https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181
