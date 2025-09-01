@@ -32,7 +32,7 @@
 ### 快速预览
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/wio_terminal_project.git
+git clone https://github.com/你的用户名/wio_terminal_project.git](https://github.com/skye080523/Wio-Terminal.git
 
 # 查看演示视频
 # 点击上方"观看完整演示视频"按钮
@@ -273,7 +273,7 @@ This is a complete Super Mario game project developed for the Seeed Wio Terminal
 ### Quick Preview
 ```bash
 # Clone the project
-git clone https://github.com/your-username/wio_terminal_project.git
+git clone https://github.com/your-username/wio_terminal_project.git](https://github.com/skye080523/Wio-Terminal.git
 
 # Watch demo video
 # Click the "Watch Full Demo Video" button above
