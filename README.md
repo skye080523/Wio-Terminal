@@ -15,7 +15,7 @@
 ## 🎥 游戏演示
 
 ### 视频展示
-[![Wio Terminal 超级玛丽游戏演示](https://img.shields.io/badge/观看完整演示视频-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1CeaEz9Enf/)
+[![Wio Terminal 超级玛丽游戏演示](https://img.shields.io/badge/观看完整演示视频-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1qVaFzxEPJ/)
 
 **或者观看GitHub演示视频**：[点击这里](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181)
 
@@ -260,7 +260,7 @@ This is a complete Super Mario game project developed for the Seeed Wio Terminal
 ## 🎥 Game Demo
 
 ### Video Showcase
-[![Wio Terminal Super Mario Game Demo](https://img.shields.io/badge/Watch_Demo_Video-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1CeaEz9Enf/)
+[![Wio Terminal Super Mario Game Demo](https://img.shields.io/badge/Watch_Demo_Video-Bilibili-red?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1qVaFzxEPJ/)
 
 **Or watch GitHub demo video**: [Click here](https://github.com/skye080523/Wio-Terminal/issues/1#issue-3371168181)
 
